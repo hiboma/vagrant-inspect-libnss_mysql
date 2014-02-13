@@ -3,9 +3,9 @@
 ## installed
 
  * CentOS6.5
- * libnss_mysql
+ * libnss-mysql
  * nscd
- * mysqld
+ * mysql, mysql-server
 
 ## usage
 
